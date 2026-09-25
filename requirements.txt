@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pymongo
+python-dotenv
+scikit-learn
+pdfplumber
+python-docx
+requests
